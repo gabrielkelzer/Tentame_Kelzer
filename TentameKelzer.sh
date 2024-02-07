@@ -20,7 +20,13 @@ echo -e '\033[1;36m
 
 
 
-
+echo -e '\033[1;33m
+O MENU A SER EXIBIDO NA TELA É GRANDE !!!
+PORTANTO AUMENTE A TELA DE EXIBIÇÃO DO TERMUX.\033[0m'
+sleep 5
+clear
+echo -e '\033[1;33mJÁ ? AGORA APERTE "ENTER"\033[0m '
+read SEGUE
 
 while [[ $MENU_PRINCIPAL -ne 4 ]]; do
 
