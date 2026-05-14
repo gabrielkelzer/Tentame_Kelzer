@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM_AQUI" width="900">
+  <img "https://github.com/gabrielkelzer/Tentame_Kelzer/blob/main/file_00000000aaa071f99f06649b76c3d929.png" width="900">
 </p>
 
 # Tentame Kelzer
