@@ -34,7 +34,7 @@ while [[ $MENU_PRINCIPAL -ne 4 ]]; do
    echo '
 ^-------------------------------------/\--.
 ||============================= \\\\\\  \/~\/\
-||     SCRIPT DA HELÊSOFT        \\\\\\  \/
+||     SCRIPT DA KELZERBOY       \\\\\\  \/
  |~~~~~~~~-________________-_________________\
  \---------|_________       ------~~~~~---   )
                      \ /~~~~\~~\   )--- \_/ (
@@ -76,7 +76,7 @@ while [[ $MENU_PRINCIPAL -ne 4 ]]; do
 = \033[1;33mSobre o Projeto Tentame Kelzer\033[0m \033[1;36m=
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 \033[0m
-\033[1;31mTentame Kelzer é um programa da HeleSoft, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Gabriel Kelzer em Shell Script. 
+\033[1;31mTentame Kelzer é um programa da KelzerBoy, que tem por objetivo enviar áudio falso no Whatsapp. atualmente está na versão 1 desenvolvida pelo Gabriel Kelzer em Shell Script. 
 
 A pergunta que não quer calar é "Como ele fez isso?" Ele implementou o programa espeak na sua script para fazer o termux falar e também utilizou um método que ele mesmo descobriu.
 
